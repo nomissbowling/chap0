@@ -12,6 +12,12 @@ ModelImporter:
     400004: Lamp
     400006: Sphere
     2100000: No Name
+    2100002: colorAll
+    2100004: colorTop
+    2100006: colorRight
+    2100008: colorFinger
+    2100010: colorThumb
+    2100012: colorFront
     2300000: Sphere
     3300000: Sphere
     4300000: Sphere
