@@ -18,6 +18,9 @@ ModelImporter:
     2100008: colorFinger
     2100010: colorThumb
     2100012: colorFront
+    2100014: colorLine
+    2100016: colorBottom
+    2100018: colorLineHalf
     2300000: Sphere
     3300000: Sphere
     4300000: Sphere
