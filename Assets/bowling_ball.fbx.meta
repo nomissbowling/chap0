@@ -21,6 +21,8 @@ ModelImporter:
     2100014: colorLine
     2100016: colorBottom
     2100018: colorLineHalf
+    2100020: colorLineFloat
+    2100022: colorLinePlus
     2300000: Sphere
     3300000: Sphere
     4300000: Sphere
